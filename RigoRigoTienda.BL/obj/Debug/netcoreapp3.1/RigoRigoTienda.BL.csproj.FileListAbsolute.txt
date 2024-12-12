@@ -1,0 +1,15 @@
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\bin\Debug\netcoreapp3.1\RigoRigoTienda.BL.deps.json
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\bin\Debug\netcoreapp3.1\RigoRigoTienda.BL.dll
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\bin\Debug\netcoreapp3.1\RigoRigoTienda.BL.pdb
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\obj\Debug\netcoreapp3.1\RigoRigoTienda.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\obj\Debug\netcoreapp3.1\RigoRigoTienda.BL.AssemblyInfoInputs.cache
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\obj\Debug\netcoreapp3.1\RigoRigoTienda.BL.AssemblyInfo.cs
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\obj\Debug\netcoreapp3.1\RigoRigoTienda.BL.csproj.CoreCompileInputs.cache
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\obj\Debug\netcoreapp3.1\RigoRigoTienda.BL.dll
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\obj\Debug\netcoreapp3.1\RigoRigoTienda.BL.pdb
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\bin\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.dll
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\bin\Debug\netcoreapp3.1\RigoRigoTienda.Entities.dll
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\bin\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.pdb
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\bin\Debug\netcoreapp3.1\RigoRigoTienda.Entities.pdb
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\obj\Debug\netcoreapp3.1\RigoRigoTienda.BL.csproj.AssemblyReference.cache
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.BL\obj\Debug\netcoreapp3.1\RigoRigo.AD8FCDE4.Up2Date

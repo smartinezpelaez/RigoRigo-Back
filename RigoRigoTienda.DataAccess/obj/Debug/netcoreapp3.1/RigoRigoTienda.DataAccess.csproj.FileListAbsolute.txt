@@ -1,0 +1,16 @@
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\bin\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.deps.json
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\bin\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.runtimeconfig.json
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\bin\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.runtimeconfig.dev.json
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\bin\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.dll
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\bin\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.pdb
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\obj\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.csproj.AssemblyReference.cache
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\obj\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\obj\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.AssemblyInfoInputs.cache
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\obj\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.AssemblyInfo.cs
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\obj\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\obj\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.dll
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\obj\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.pdb
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\obj\Debug\netcoreapp3.1\RigoRigoTienda.DataAccess.genruntimeconfig.cache
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\bin\Debug\netcoreapp3.1\RigoRigoTienda.Entities.dll
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\bin\Debug\netcoreapp3.1\RigoRigoTienda.Entities.pdb
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.DataAccess\obj\Debug\netcoreapp3.1\RigoRigo.F627F22E.Up2Date

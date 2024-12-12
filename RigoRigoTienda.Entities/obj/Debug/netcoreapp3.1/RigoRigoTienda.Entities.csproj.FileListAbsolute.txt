@@ -1,0 +1,9 @@
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.Entities\bin\Debug\netcoreapp3.1\RigoRigoTienda.Entities.deps.json
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.Entities\bin\Debug\netcoreapp3.1\RigoRigoTienda.Entities.dll
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.Entities\bin\Debug\netcoreapp3.1\RigoRigoTienda.Entities.pdb
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.Entities\obj\Debug\netcoreapp3.1\RigoRigoTienda.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.Entities\obj\Debug\netcoreapp3.1\RigoRigoTienda.Entities.AssemblyInfoInputs.cache
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.Entities\obj\Debug\netcoreapp3.1\RigoRigoTienda.Entities.AssemblyInfo.cs
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.Entities\obj\Debug\netcoreapp3.1\RigoRigoTienda.Entities.csproj.CoreCompileInputs.cache
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.Entities\obj\Debug\netcoreapp3.1\RigoRigoTienda.Entities.dll
+C:\Users\stev2\source\repos\RigoRigoTienda\RigoRigoTienda.Entities\obj\Debug\netcoreapp3.1\RigoRigoTienda.Entities.pdb
